@@ -1,0 +1,14 @@
+:root {
+    --dark : #0b1121;
+    --primary : rgb(224, 255, 0);
+    --secondary : #0f172a;
+    --accent : #FB2576;
+    --tertiary : #242e42;
+    --border : solid 1px var(--tertiary);
+    --text-color-white : #f8fafc;
+  }
+
+  body{
+    font-family: 'Roboto Mono', monospace;
+    background: var(--secondary);
+  }
